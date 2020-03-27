@@ -26,3 +26,9 @@ npx knex init
 npx knex migrate:make migration_name
 npx knex migrate:latest
 npm i cors
+--------------
+    Aula 5
+--------------
+--- Backend ---
+npx jest --init
+npm test
